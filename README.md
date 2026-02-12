@@ -1,16 +1,81 @@
-# React + Vite
+# My Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[![React](https://img.shields.io/badge/React-17.0.2-blue?logo=react&logoColor=white)](https://reactjs.org/)
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.3.3-blue?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
-Currently, two official plugins are available:
+> A modern, responsive personal portfolio website built with React and Tailwind CSS to showcase my projects, skills, and experience.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🌐 Live Demo
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Check out the live portfolio [here](https://yourportfolio.com).
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 💻 Features
+
+- Fully responsive design for all devices  
+- Hero section with profile image and introduction  
+- About section with professional overview  
+- Skills section highlighting technologies (HTML, CSS, JavaScript, React, SQL, MySQL)  
+- Projects section with GitHub & Live links  
+- Smooth scrolling navigation and modern UI animations  
+
+---
+
+## 🛠 Tech Stack
+
+- **Frontend:** React, Tailwind CSS  
+- **Version Control:** Git & GitHub  
+- **Optional Animations:** Framer Motion  
+
+---
+
+## 📂 Projects
+
+| Project | Description | GitHub |
+|---------|-------------|--------|
+| Portfolio Website | Personal portfolio built with React & Tailwind CSS | [Link](https://github.com/Shobhansen/portfolio) |
+| Alumni Social Network | Connects students & alumni for networking & mentorship | [Link](https://github.com/SwagataMOfficial/Alumni_Social_Network_2k24) |
+| CareerTracker | Track & manage career goals and progress | [Link](https://github.com/Shobhansen/carrerTracker) |
+| Tic Tac Toe | Two-player game with win/draw detection & reset button | [Link](https://github.com/Shobhansen/Tic_tac_toe) |
+
+---
+
+## ⚡ Getting Started
+
+### Prerequisites
+
+Make sure you have **Node.js** and **npm** installed.
+
+### Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/yourusername/portfolio.git
+```
+# Navigate to project directory
+```
+cd portfolio
+```
+# Install dependencies
+```
+npm install
+```
+---
+# Running Locally
+```bash
+# Start the development server
+npm run dev
+```
+Open http://localhost:3000 in your browser.
+
+---
+# 📌 Contact Me
+- Email: shobhansenoo@gmail.com
+
+- LinkedIn: https://www.linkedin.com/in/shobhansen/
+
+- GitHub: https://github.com/Shobhansen
